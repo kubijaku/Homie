@@ -1,0 +1,9 @@
+Na razie tu zapisze jaki kolor do czego (na razie)
+
+https://coolors.co/679436-f2f2f2-a5be00-ffffff-f1f2df-a8a8a8
+
+'#679436ff' -- 
+    tło (ten  żywy zielony)
+    przycisk Confirm
+    Ulubione (gwiazdka)
+    pasek nawigacji

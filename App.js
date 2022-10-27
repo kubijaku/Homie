@@ -4,6 +4,7 @@ import { StyleSheet, Text, View, Image } from 'react-native';
 
 import MainScreen from './screens/MainScreen';
 import SignInScreen from './screens/SignInScreen';
+import UserProfile from './screens/UserProfile';
 
 // App.js jest jak main - tutaj ma być mało kodu
 // głównie nawigacja - react-navigation
@@ -14,7 +15,7 @@ import SignInScreen from './screens/SignInScreen';
 export default function App() {
   return (
     <View style={styles.container}>
-      <SignInScreen />
+      <UserProfile />
       <StatusBar style="auto" />
     </View>
   );
